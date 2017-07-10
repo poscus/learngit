@@ -1,2 +1,2 @@
-learn git originally
-learn flask originally
+learn git originally, a second time
+learn flask originally,a seocnd time
